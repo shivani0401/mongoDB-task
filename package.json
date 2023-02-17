@@ -1,0 +1,25 @@
+{
+  "name": "mongodb-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivani0401/mongoDB-task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivani0401/mongoDB-task/issues"
+  },
+  "homepage": "https://github.com/shivani0401/mongoDB-task#readme",
+  "dependencies": {
+    "mongoose": "^6.9.2",
+    "validator": "^13.9.0"
+  }
+}
